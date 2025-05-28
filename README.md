@@ -17,8 +17,11 @@ Right-click the link and select “Open in new tab” if needed.
 ## 📂 Folder Structure
 
 /css → stylesheets
+
 /js → JavaScript scripts
+
 /images → image assets
+
 index.html → homepage
 
 ## 🚫 Not Included
