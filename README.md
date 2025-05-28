@@ -11,7 +11,7 @@ This is the **official portfolio repository** for [Papatya Lostra](https://papat
 
 ## 🖼 Live Website
 
-You can visit the live website here 👉 [https://papatyalostra.com](https://papatyalostra.com)
+You can visit the live website here 👉 [https://papatyalostra.com](https://papatyalostra.com) <a href="https://papatyalostra.com" target="_blank">Visit site</a>
 
 ## 📂 Folder Structure
 
